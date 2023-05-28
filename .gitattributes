@@ -1,3 +1,4 @@
+demux/paired-end-demux.qza filter=lfs diff=lfs merge=lfs -text
 *.qzv filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.qza filter=lfs diff=lfs merge=lfs -text
